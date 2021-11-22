@@ -1,1 +1,7 @@
-# Otimizacao_por_Enxame_de_Particulas
+# Otimização por Enxame de Partículas
+
+Na minimização dos valores de fitness das funções de teste:
+
+- Rastrigin;
+- Sphere;
+- Rosenbrock.
